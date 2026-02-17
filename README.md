@@ -1,14 +1,23 @@
 # CC14-Unit-3-Debugging-Activity
 HTML Errors Fixed:
 -Missing closing anchor tag
+
 -Inline styling removed
--Missing closing <h2>
--Missing closing </form>
+
+-Missing closing h2 tag
+
+-Missing closing form tag
+
 -Tag nesting corrected
 
+
 CSS Errors Fixed:
--Missing { in body
+-Missing opening curly brace in body
+
 -Misspelled header selector
--Missing } in section rule
+
+-Missing closing curly brace in section rule
+
 -Missing semicolon
+
 -Missing colon
